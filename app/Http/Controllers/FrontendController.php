@@ -84,11 +84,11 @@ class FrontendController extends Controller
         $array['subject'] = $request->subject;
         $array['email'] = $request->email;
         $array['message'] = $request->message;
-        $array['from'] = 'do-not-reply@taxdocs.co.uk';
-        $email = "kmushakil22@gmail.com";
+        $array['from'] = 'do-not-reply@diamondsinn.co.uk';
+        $email = "towhid10@gmail.com";
 
         Mail::send('email.contact', compact('array'), function($message)use($array,$email) {
-                $message->from($array['from'], 'taxdocs.co.uk');
+                $message->from($array['from'], 'diamondsinn.co.uk');
                 $message->to($email)->subject($array['subject']);
                });
         return redirect()->route("homepage")->with("message", "Mail send successfull!");
