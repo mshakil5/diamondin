@@ -85,7 +85,7 @@ class FrontendController extends Controller
         $array['email'] = $request->email;
         $array['message'] = $request->message;
         $array['from'] = 'do-not-reply@diamondsinn.co.uk';
-        $email = "towhid10@gmail.com";
+        $email = "kmushakil22@gmail.com";
 
         Mail::send('email.contact', compact('array'), function($message)use($array,$email) {
                 $message->from($array['from'], 'diamondsinn.co.uk');
