@@ -15,6 +15,24 @@
                 <p><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Semi Flex – ONLY on direct bookings.  Pay now and 40% refundable on cancellations 3 days before arrival.</p>
               </div>
 
+              <div class="row">
+                <div class="carousel-text container">
+
+                  <h1 class="title-global mb-1">Book Direct <span class="">Get 10% Discount</span></h1>
+                  
+                      <a href="" class="text-decoration-none" title="Call Now"><h5 class="my-2"> 07778529048 | 07717941122</h5></a>
+               
+                  
+
+                  <h5 class="my-2 text-white">  </h5>
+                  <div class="mt-4 d-flex flex-wrap align-items-center justify-content-center-sm">
+                      <a href="https://via.eviivo.com/DiamondsYO31" target="_blank" class="btn-theme">
+                          Book now
+                      </a>
+                  </div>
+              </div>
+              </div>
+
               <h4 class="my-3 title-global">For Example</h4>
                 <table class="table table-hover">
                     <thead>
