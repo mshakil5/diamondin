@@ -50,9 +50,9 @@
                             <a href="#/privacy" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Privacy &amp; Policy</a>
                         </li>
 
-                        <li class="mb-2">
+                        {{-- <li class="mb-2">
                             <a href="{{route('parking')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Parking</a>
-                        </li>
+                        </li> --}}
                         <li class="mb-2">
                             <a href="{{route('facilities')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Facilities</a>
                         </li>
@@ -64,26 +64,27 @@
                             <a href="{{route('offer')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Offer</a>
                         </li>
                         
+                        
+
+                    </ul>
+                </div>
+                <div class=" col-md-3 mb-3">
+                    <h4 class=" fw-bold mb-3 darkerGrotesque-semibold">Contact</h4>
+                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon class=" pe-2" icon="ic:baseline-local-phone"></iconify-icon>   +447717941122</p>
+                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon class=" pe-2" icon="tabler:brand-whatsapp"></iconify-icon>  +447717941122 </p>
+                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon class=" pe-2" icon="ic:outline-email"></iconify-icon>diamondsinnyork@gmail.com</p>
+                    <ul class="footer-link ">
+                        
                         <li class="mb-2">
                             <a href="{{route('location')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Local Attraction</a>
                         </li>
                         <li class="mb-2">
                             <a href="{{route('review')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Review-&-servey</a>
                         </li>
-
                     </ul>
                 </div>
                 <div class=" col-md-3 mb-3">
-                    <h4 class=" fw-bold mb-3 darkerGrotesque-semibold">Contact</h4>
-                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon
-                            class=" pe-2" icon="ic:baseline-local-phone"></iconify-icon>   +447717941122</p>
-                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon
-                            class=" pe-2" icon="tabler:brand-whatsapp"></iconify-icon>  +447717941122 </p>
-                    <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon
-                            class=" pe-2" icon="ic:outline-email"></iconify-icon>diamondsinnyork@gmail.com</p>
-                </div>
-                <div class=" col-md-3 mb-3">
-                    <form>
+                    <form class="mb-2">
                         <h4 class=" fw-bold mb-3 darkerGrotesque-semibold">Subscribe newsletter</h4>
                         <p class=" lh-1 mb-3 text-light">Monthly digest of what's new and exciting from us.</p>
                         <div class="d-flex flex-column flex-sm-row w-100 gap-2">
@@ -92,6 +93,18 @@
                             <button class="btn bg-primary text-white" type="button">Subscribe</button>
                         </div>
                     </form>
+
+                    <ul class="footer-link ">
+                        
+                        <li class="mb-2">
+                            <a href="#/terms" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon> Terms &amp; conditions</a>
+                        </li>
+                        <li class="mb-2">
+                            <a href="#/privacy" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Privacy &amp; Policy</a>
+                        </li>
+                    </ul>
+
+
                 </div>
 
 
