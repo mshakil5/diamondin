@@ -8,7 +8,7 @@
       <section  id='one'>
         <div class="row mb-5">
           <div class="col-lg-12 text-center ">
-            <h3 class="my-3">Parking Address</h3>
+            <h3 class="my-3 title-global">Parking Address</h3>
           </div>
           <div class="col-lg-3 text-center">
             <div class="card shadow-sm mb-3">
@@ -58,7 +58,7 @@
      
 
     </div>
-  </section>
+</section>
 
 @endsection
 

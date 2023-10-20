@@ -65,7 +65,7 @@
                         </li>
                         
                         <li class="mb-2">
-                            <a href="{{route('location')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Location</a>
+                            <a href="{{route('location')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Local Attraction</a>
                         </li>
                         <li class="mb-2">
                             <a href="{{route('review')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Review-&-servey</a>

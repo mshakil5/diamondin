@@ -6,9 +6,16 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center ">
-                <h3 class="my-3">Our Rates</h3>
+                <h2 class="my-3 title-global">Our Rates</h2>
               </div>
-            <div class="col-md-9 mx-auto text-center">
+            <div class="col-md-9 mx-auto">
+              <div class="row mb-2">
+                <p><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Base Rate: free cancellation up to 7 days before arrival.</p>
+                <p><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Non-Refundable rate: Pay now/No amends of refund.</p>
+                <p><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Semi Flex – ONLY on direct bookings.  Pay now and 40% refundable on cancellations 3 days before arrival.</p>
+              </div>
+
+              <h4 class="my-3 title-global">For Example</h4>
                 <table class="table table-hover">
                     <thead>
                       <tr>
@@ -22,12 +29,12 @@
                     <tbody>
                       <tr>
                         <th scope="row">1</th>
-                        <td>Mark</td>
-                        <td>10%</td>
-                        <td>10%</td>
-                        <td>10%</td>
+                        <td>Family room-Standard-Ensuite</td>
+                        <td>£50</td>
+                        <td>£50</td>
+                        <td>10% discount</td>
                       </tr>
-                      <tr>
+                      {{-- <tr>
                         <th scope="row">2</th>
                         <td>Jacob</td>
                         <td>10%</td>
@@ -40,7 +47,7 @@
                         <td>10%</td>
                         <td>10%</td>
                         <td>10%</td>
-                      </tr>
+                      </tr> --}}
                     </tbody>
                   </table>
             </div>

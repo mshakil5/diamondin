@@ -39,7 +39,7 @@ Route::get('/facilities', [FrontendController::class, 'facilities'])->name('faci
 Route::get('/parking', [FrontendController::class, 'parking'])->name('parking');
 Route::get('/our-rates', [FrontendController::class, 'rates'])->name('rates');
 Route::get('/offer', [FrontendController::class, 'offer'])->name('offer');
-Route::get('/location', [FrontendController::class, 'location'])->name('location');
+Route::get('/local-attraction', [FrontendController::class, 'location'])->name('location');
 Route::get('/review-&-servey', [FrontendController::class, 'review'])->name('review');
 Route::post('/review-&-servey', [FrontendController::class, 'serveyStore'])->name('survey.store');
   
