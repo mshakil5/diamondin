@@ -45,13 +45,13 @@
                     <ul class="navbar-nav ms-auto navCustom">
                         <!-- "me-auto" for left align | "ms-auto" for right align | "mx-auto" for center align--->
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="/">Home</a>
+                            <a class="nav-link active" aria-current="page" href="{{route('homepage')}}">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " aria-current="page" href="#about">About</a>
+                            <a class="nav-link " aria-current="page" href="{{route('about')}}">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " aria-current="page" href="#contact">contact</a>
+                            <a class="nav-link " aria-current="page" href="{{route('contact')}}">contact</a>
                         </li>
                         
                         <li class="nav-item">

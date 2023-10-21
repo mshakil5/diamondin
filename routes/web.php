@@ -34,6 +34,7 @@ Auth::routes();
 Route::get('/home', [FrontendController::class, 'index'])->name('home');
 Route::get('/', [FrontendController::class, 'index'])->name('homepage');
 Route::get('/about', [FrontendController::class, 'about'])->name('about');
+Route::get('/contact', [FrontendController::class, 'contact'])->name('contact');
 Route::post('/contact', [FrontendController::class, 'contactMessage'])->name('contact.submit');
 Route::get('/facilities', [FrontendController::class, 'facilities'])->name('facilities');
 Route::get('/parking', [FrontendController::class, 'parking'])->name('parking');
