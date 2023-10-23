@@ -71,6 +71,20 @@ class FrontendController extends Controller
         $data->recommend = $request->recommend;
         $data->others = $request->others;
         $data->save();
+
+        $array['name'] = $request->name;
+        $array['subject'] = "Diamonds Inn Servey";
+        $array['email'] = $request->email;
+        $array['message'] = "Diamonds Inn Servey";
+        $array['from'] = 'do-not-reply@diamondsinn.co.uk';
+        $array['cc'] = $request->email;
+        $email = "towhid10@gmail.com";
+
+        Mail::send('email.servey', compact('array'), function($message)use($array,$email) {
+                $message->from($array['from'], 'diamondsinn.co.uk');
+                $message->to($email)->cc($array['cc'])->subject($array['subject']);
+               });
+
         return redirect()->route("review")->with("message", "Review submited successfull!");
 
     }

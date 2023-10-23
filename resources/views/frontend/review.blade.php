@@ -98,13 +98,22 @@
             </div> 
 
             <div class="row mt-5">
-                <div class="col-md-9 mx-auto text-center">
-                    <h2 class="title-global">We are giving away a <br> £100 amazon.co.uk gift card as a annual prize draw.</h2>
-                    <h4>Draw will take place on <br> December 2023</h4>
-                    <p>Please provide your name and address to take part in the draw.</p>
-                    <p>We will also update you with any special offers in the future.</p>
+                <div class="col-md-9 mx-auto ">
+                    
+                    <p>Take Part in our survey to win:</p>
 
-                    <div class="form-group row">
+                     
+                    <h2 class="title-global">1st Prize - £300 </h2>
+                    <h2 class="title-global">2nd Prize - £100 worth of Amazon Gift Voucher </h2>
+                    <h2 class="title-global">3rd Prize - Free Stay at any one of the Diamonds Branch</h2>
+                    <small>(not be used in conjunction with any other offer.  T&C apply)</small>
+                    
+                     
+                    <p>Submit your survey with a valid email and you will receive a reference number in return, which you can quote for a 10% discount on your next stay with Diamonds. (Valid only with direct bookings)</p>
+                    
+
+
+                    <div class="form-group row text-center mx-auto">
                         <div class="col-sm-2">
                             <label for="name" class="col-sm-2 col-form-label">Name</label>
                         </div>
@@ -127,10 +136,10 @@
                                 </span>
                             @enderror
                         </div>
+                        <button type="submit" class="btn btn-success mt-3 text-center">Submit</button>
                     </div>
 
                     
-                    <button type="submit" class="btn btn-success mt-3">Submit</button>
 
 
                 </div>
