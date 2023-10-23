@@ -50,16 +50,20 @@
                         <li class="nav-item">
                             <a class="nav-link " aria-current="page" href="{{route('about')}}">About</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link " aria-current="page" href="{{route('contact')}}">contact</a>
-                        </li>
                         
                         <li class="nav-item">
                             <a class="nav-link " href="{{route('offer')}}">Offer</a>
                         </li>
                         
                         <li class="nav-item">
+                            <a class="nav-link " href="{{route('review')}}">Servey</a>
+                        </li>
+                        
+                        <li class="nav-item">
                             <a class="nav-link"  href="{{route('rates')}}">Our Rates</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " aria-current="page" href="{{route('contact')}}">contact</a>
                         </li>
                         <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdownItem" role="button"

@@ -58,12 +58,7 @@
                             <a href="{{route('review')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Review-&-servey</a>
                         </li>
                         
-                        {{-- <li class="mb-2">
-                            <a href="{{route('rates')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Our Rates</a>
-                        </li>
-                        <li class="mb-2">
-                            <a href="{{route('offer')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Offer</a>
-                        </li> --}}
+                        
                         
                         
 
@@ -74,27 +69,22 @@
                     <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon class=" pe-2" icon="ic:baseline-local-phone"></iconify-icon>   +447717941122</p>
                     <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon class=" pe-2" icon="tabler:brand-whatsapp"></iconify-icon>  +447717941122 </p>
                     <p class="mb-1 darkerGrotesque-semibold d-flex align-items-center text-light"><iconify-icon class=" pe-2" icon="ic:outline-email"></iconify-icon>diamondsinnyork@gmail.com</p>
+                    
+                </div>
+                <div class=" col-md-3 mb-3">
+
                     <ul class="footer-link ">
+
+                        <li class="mb-2">
+                            <a href="{{route('rates')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Our Rates</a>
+                        </li>
+                        <li class="mb-2">
+                            <a href="{{route('offer')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Offer</a>
+                        </li>
+                        
                         <li class="mb-2">
                             <a href="#/terms" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon> Terms &amp; conditions</a>
                         </li>
-                        
-                    </ul>
-                </div>
-                <div class=" col-md-3 mb-3">
-                    <form class="mb-2">
-                        <h4 class=" fw-bold mb-3 darkerGrotesque-semibold">Subscribe newsletter</h4>
-                        <p class=" lh-1 mb-3 text-light">Monthly digest of what's new and exciting from us.</p>
-                        <div class="d-flex flex-column flex-sm-row w-100 gap-2">
-                            <label for="newsletter1" class="visually-hidden">Email address</label>
-                            <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
-                            <button class="btn bg-primary text-white" type="button">Subscribe</button>
-                        </div>
-                    </form>
-
-                    <ul class="footer-link ">
-                        
-                        
                         <li class="mb-2">
                             <a href="#/privacy" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Privacy &amp; Policy</a>
                         </li>

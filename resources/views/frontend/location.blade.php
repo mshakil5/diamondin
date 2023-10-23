@@ -6,25 +6,12 @@
 <section class="about-banner bg-light">
   <div class="container-fluid px-0">
       <div class="row">
-          <img src="{{ asset('assets/frontend/images/626-1600x550.jpg')}}" class="img-fluid">
+          <img src="{{ asset('assets/frontend/images/626-1600x550.jpg')}}" style="height: 230px" class="img-fluid">
       </div>
   </div>
 </section>
 
-<section class="spacer bg-dark text-center" id="about">
-  <div class="container">
-      <div class="row">
-          <div class="col-md-8 mx-auto ">
-              <h2 class=" text-center txt-primary fw-bold">
-                  Welcome to <span class="txt-primary">Diamons Inn</span>
-              </h2>
-          </div>
-          <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, illo, laborum,
-              omnis officiis asperiores hic fuga voluptatum autem ea debitis itaque repudiandae officia sequi ab
-              veritatis natus nobis praesentium ex.</p>
-      </div>
-  </div>
-</section>
+
 
 <section class="about py-5">
     <div class="container">
