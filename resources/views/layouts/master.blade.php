@@ -55,7 +55,7 @@
                             <a href="{{route('location')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Local Attraction</a>
                         </li>
                         <li class="mb-2">
-                            <a href="{{route('review')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Review-&-servey</a>
+                            <a href="{{route('review')}}" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Review-&-survey</a>
                         </li>
                         
                         
@@ -83,7 +83,7 @@
                         </li>
                         
                         <li class="mb-2">
-                            <a href="#/terms" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon> Terms &amp; conditions</a>
+                            <a href="#/terms" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon> Terms &amp; Conditions</a>
                         </li>
                         <li class="mb-2">
                             <a href="#/privacy" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Privacy &amp; Policy</a>

@@ -136,7 +136,7 @@ Monkgate is just 450 yards from York Minister and the city walls is within 2 min
                     <br/> Almost, at the heart of York City, you can stroll to all of York's amazing and historical sites and attractions.  York National Art Gallery, National Railway Museum, York Minister, Bar Walls are only few mentioned that are minutes’ walk away and many, many more to explore as you venture through this beautiful Viking city.
                     <br/> Diamonds Inn is the perfect destination if you want everything at your doorstep.  Enjoy this historical city with modern twist, with many chic, classic restaurants, bespoke cafes, trendy bars and traditional pubs. 
                     <br/> Choose the best suited rooms for your stay from any of our 11 rooms of double en-suite, triple en-suite, or for a little extra space choose a family en-suite.
-Whichever you choose, your stay will be made complete with a comfy bed, free Wi-Fi, flat screen TV and complimentary refreshments.  A mini fridge is provided for your convenience. 
+Whichever you choose, your stay will be made complete with a comfy bed, free Wi-Fi, flat screen TV.  A mini fridge is provided for your convenience. 
 
                     <br/> Our team at Diamonds Inn will be more than happy to guide you at any of the famous destinations in the historical City of York.  We will also strive to maintain a courteous and friendly atmosphere during your stay at our guest house.</p>
                     </br>
@@ -175,7 +175,7 @@ YO31 7PB</p>
                          Triple room-Standard-Ensuite 
                         </a>
                         <p>
-                            This Triple Standard en-suite room has a comfortable Double Bed and Single Bed , Fat screen TV and tea and coffee making facilities, Hairdryer, a relaxing Chair, Table Fan, Radio, Towels and Toiletries etc. <br/> Complimentary snack pack provided in room.  <br/>Continental breakfast available in the room.
+                            This Triple Standard en-suite room has a Double Bed and Single Bed , Fat screen TV and tea and coffee making facilities, Hairdryer, a Chair, Fan, Radio, Towels and Toiletries etc. <br/>  provided in room.
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
                             <a href="https://via.eviivo.com/DiamondsGuestHseYO23" class="btn-theme d-block w-100 text-center">Book rooms</a>
@@ -194,7 +194,7 @@ YO31 7PB</p>
                             Single room-Standard-Shared Bathroom
                         </a>
                         <p>
-                            This Single Standard Room has a comfortable Single Bed, Hand wash basin, Flat screen TV, Tea and Coffee making facilities, Towels and Toiletries, Hair Dryer, Table Fan etc.<br/> Continental breakfast available in the Room.  <br/>Complimentary snack pack provided in room.
+                            This Single Standard Room has a Single Bed, Hand wash basin, Flat screen TV, Tea and Coffee making facilities, Towels and Toiletries, Hair Dryer, Table Fan etc.
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
                             <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center">Rooms Book</a>
@@ -213,7 +213,7 @@ YO31 7PB</p>
                             Double room-Budget-Shared Bathroom
                         </a>
                         <p>
-                            This Double Basic Room has a comfortable Double Bed, Hand wash basin, Flat screen TV, Tea and Coffee making facilities, Towels and Toiletries, Hair Dryer, a relaxing Chair, Table Fan etc.<br/> Continental breakfast available in the Room. <br/> Complimentary snack pack provided in room.  Private Bathroom is outside the room.
+                            This Double Basic Room has a Double Bed, Hand wash basin, Flat screen TV, Tea and Coffee making facilities, Towels and Toiletries, Hair Dryer, a Chair, Fan etc.<br/> Private Bathroom is outside the room.
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
                             <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center">Room Book</a>
@@ -232,7 +232,7 @@ YO31 7PB</p>
                             Double room-Standard-Ensuite
                         </a>
                         <p>
-                            This double Classic En-suite Room has a comfortable Double Bed, Flat screen TV, Tea and Coffee making facilities, Towels and Toiletries, Hair Dryer,a relaxing Chair, Table Fan etc.<br/> Continental breakfast available in the Room. <br/> Complimentary snack pack provided in room
+                            This double Classic En-suite Room has a Double Bed, Flat screen TV, Tea and Coffee making facilities, Towels and Toiletries, Hair Dryer,a Chair, Fan etc.
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
                             <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center">Room Book</a>
@@ -253,7 +253,7 @@ YO31 7PB</p>
                              Family room-Standard-Ensuite
                         </a>
                         <p>
-                            This Family Standard En-suite Room has comfortable Double bed and 3 Single beds , Fat screen TV and tea and coffee making facilities, Hairdryer, a relaxing Chair, Table fan, Towels and Toiletries etc. <br/>Continental breakfast available in the Room. <br/> Complimentary snack pack provided in room.
+                            This Family Standard En-suite Room has Double bed and 3 Single beds , Fat screen TV and tea and coffee making facilities, Hairdryer, a Chair, fan, Towels and Toiletries etc. 
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
                             <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center"> Book Room</a>

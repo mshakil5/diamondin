@@ -22,11 +22,19 @@
 
                     <div class="about-right ">
                         <h2 class="title-global">Survey</h2>
-                        <p>Thank you for staying our guest house.
-                        <br/> We would like to take part in this short survey to tell us what we are doing well and where we need to do better
+                        <p>Thank you for staying at our Diamonds
+                        <br/> Please help us to improve our service by participating in this short survey and you will automatically be entered in our price draw to win:
                     </p>
                     
                     <br>
+
+                    <p>Take Part in our survey to win:</p>
+
+                     
+                    <h2 class="title-global">1st Prize - £300 </h2>
+                    <h2 class="title-global">2nd Prize - £100 worth of Amazon Gift Voucher </h2>
+                    <h2 class="title-global">3rd Prize - Free Stay at any one of the Diamonds Branch</h2>
+                    <small>(not be used in conjunction with any other offer.  T&C apply)</small>
 
                     <table class="table table-hover">
                         <thead>
@@ -100,13 +108,7 @@
             <div class="row mt-5">
                 <div class="col-md-9 mx-auto ">
                     
-                    <p>Take Part in our survey to win:</p>
-
-                     
-                    <h2 class="title-global">1st Prize - £300 </h2>
-                    <h2 class="title-global">2nd Prize - £100 worth of Amazon Gift Voucher </h2>
-                    <h2 class="title-global">3rd Prize - Free Stay at any one of the Diamonds Branch</h2>
-                    <small>(not be used in conjunction with any other offer.  T&C apply)</small>
+                    
                     
                      
                     <p>Submit your survey with a valid email and you will receive a reference number in return, which you can quote for a 10% discount on your next stay with Diamonds. (Valid only with direct bookings)</p>

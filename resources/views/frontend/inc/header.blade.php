@@ -56,7 +56,7 @@
                         </li>
                         
                         <li class="nav-item">
-                            <a class="nav-link " href="{{route('review')}}">Servey</a>
+                            <a class="nav-link " href="{{route('review')}}">Survey</a>
                         </li>
                         
                         <li class="nav-item">
