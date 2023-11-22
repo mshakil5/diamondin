@@ -56,6 +56,7 @@
                                 <td style="text-align: center"><input type="radio" name="overall_cleanliness" value="3" id="" ></td>
                                 <td style="text-align: center"><input type="radio" name="overall_cleanliness" value="4" id="" ></td>
                                 <td style="text-align: center"><input type="radio" name="overall_cleanliness" value="5" id="" ></td>
+                                <td></td>
                             </tr>
                             <tr>
                                 <td>2. Please rate the customer service provided by our staff.</td>
@@ -64,14 +65,16 @@
                                 <td style="text-align: center"><input type="radio" name="customer_service" value="3" id="" ></td>
                                 <td style="text-align: center"><input type="radio" name="customer_service" value="4" id="" ></td>
                                 <td style="text-align: center"><input type="radio" name="customer_service" value="5" id="" ></td>
+                                <td></td>
                             </tr>
                             <tr>
-                                <td>3. Please rate the comport of your room.</td>
+                                <td>3. Please rate the comfort  of your room.</td>
                                 <td style="text-align: center"><input type="radio" name="comport" value="1" id="" ></td>
                                 <td style="text-align: center"><input type="radio" name="comport" value="2" id="" ></td>
                                 <td style="text-align: center"><input type="radio" name="comport" value="3" id="" ></td>
                                 <td style="text-align: center"><input type="radio" name="comport" value="4" id="" ></td>
                                 <td style="text-align: center"><input type="radio" name="comport" value="5" id="" ></td>
+                                <td></td>
                             </tr>
                             <tr>
                                 <td>4. Please rate the process of getting in to your room.</td>
@@ -80,14 +83,15 @@
                                 <td style="text-align: center"><input type="radio" name="process" value="3" id="" ></td>
                                 <td style="text-align: center"><input type="radio" name="process" value="4" id="" ></td>
                                 <td style="text-align: center"><input type="radio" name="process" value="5" id="" ></td>
+                                <td></td>
                             </tr>
                             <tr>
                                 <td>5. Please rate how likely would you recommend us to a family or friend.</td>
-                                <td style="text-align: center"><input type="radio" name="recommend" value="1" id="" ></td>
-                                <td style="text-align: center"><input type="radio" name="recommend" value="2" id="" ></td>
-                                <td style="text-align: center"><input type="radio" name="recommend" value="3" id="" ></td>
-                                <td style="text-align: center"><input type="radio" name="recommend" value="4" id="" ></td>
-                                <td style="text-align: center"><input type="radio" name="recommend" value="5" id="" ></td>
+                                <td style="text-align: left" colspan="2"><input type="radio" name="recommend" value="1" id="" >Likely</td>
+                                {{-- <td style="text-align: center"><input type="radio" name="recommend" value="2" id="" ></td> --}}
+                                <td style="text-align: left" colspan="2"><input type="radio" name="recommend" value="2" id="" >Possibly</td>
+                                {{-- <td style="text-align: center"><input type="radio" name="recommend" value="4" id="" ></td> --}}
+                                <td style="text-align: left" colspan="2"><input type="radio" name="recommend" value="3" id="" >Unlikely</td>
                             </tr>
 
                         </tbody>

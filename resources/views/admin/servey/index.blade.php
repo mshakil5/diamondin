@@ -92,15 +92,11 @@
                     </td>
                     <td style="text-align: center">
                         @if ($data->recommend == 1)
-                            Excellent
+                            Likely
                         @elseif ($data->recommend == 2)
-                            Good
-                        @elseif ($data->recommend == 3)
-                            Not good not poor	
-                        @elseif ($data->recommend == 4)
-                            Poor
+                            Possibly
                         @else
-                            Very poor
+                            Unlikely
                         @endif
                     </td>
                     <td style="text-align: center">{{$data->others}}</td>
