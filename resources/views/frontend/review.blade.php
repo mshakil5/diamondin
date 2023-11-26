@@ -30,10 +30,11 @@
 
                     <p>Take Part in our survey to win:</p>
 
-                     
-                    <h2 class="title-global">1st Prize - £300 </h2>
-                    <h2 class="title-global">2nd Prize - £100 worth of Amazon Gift Voucher </h2>
-                    <h2 class="title-global">3rd Prize - Free Stay at any one of the Diamonds Branch</h2>
+                    <div class="text-left">
+                        <h2 class="title-global" style="text-align: left">1st Prize - £300 </h2>
+                        <h2 class="title-global" style="text-align: left">2nd Prize - £100 worth of Amazon Gift Voucher </h2>
+                        <h2 class="title-global" style="text-align: left">3rd Prize - Free Stay at any one of the Diamonds Branch</h2>
+                    </div>
                     <small>(not be used in conjunction with any other offer.  T&C apply)</small>
 
                     <table class="table table-hover">
