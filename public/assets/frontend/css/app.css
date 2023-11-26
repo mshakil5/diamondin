@@ -388,11 +388,9 @@ p {
     font-size: 19px;
   }
 }
-.slider .carousel-item {
-  min-height: 100vh;
-}
+
+
 .slider .carousel-item img {
-  height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
 }

@@ -90,7 +90,7 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="{{ asset('assets/frontend/images/1.png')}}" class="d-block w-100" alt="slider photo missing">
+                <img src="{{ asset('assets/frontend/images/1a.jpg')}}" class="d-block w-100" alt="slider photo missing">
                 <div class="carousel-text container">
 
                     <h1 class="main-title mb-1 text-light1.png">Book Direct <br> <span class="">Get 10% Discount</span></h1>
