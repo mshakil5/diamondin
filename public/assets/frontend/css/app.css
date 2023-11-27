@@ -387,10 +387,17 @@ p {
   .slider .carousel-text h1 {
     font-size: 19px;
   }
+
+  .slider .carousel-item img {
+    width: auto !important;
+  }
+
 }
 
 
+
 .slider .carousel-item img {
+  width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
 }

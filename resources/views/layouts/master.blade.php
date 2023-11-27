@@ -83,10 +83,10 @@
                         </li>
                         
                         <li class="mb-2">
-                            <a href="https://www.diamondsgroup.co.uk/" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon> Terms &amp; Conditions</a>
+                            <a href="https://www.diamondsinn.co.uk/" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon> Terms &amp; Conditions</a>
                         </li>
                         <li class="mb-2">
-                            <a href="https://www.diamondsgroup.co.uk/" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Privacy &amp; Policy</a>
+                            <a href="https://www.diamondsinn.co.uk/" class="d-flex align-items-center"> <iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Privacy &amp; Policy</a>
                         </li>
                     </ul>
 

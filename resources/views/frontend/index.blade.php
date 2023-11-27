@@ -90,7 +90,7 @@
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="{{ asset('assets/frontend/images/1a.jpg')}}" class="d-block w-100" alt="slider photo missing">
+                <img src="{{ asset('assets/frontend/images/1a.jpg')}}" class="d-block" alt="slider photo missing">
                 <div class="carousel-text container">
 
                     <h1 class="main-title mb-1 text-light1.png">Book Direct <br> <span class="">Get 10% Discount</span></h1>
@@ -126,19 +126,19 @@
 <section class="about py-5">
     <div class="container">
         <div class="row">
-            <div class="col-md-9 mx-auto text-center">
+            <div class="col-md-9 mx-auto text-justify">
                 <div class="about-right ">
                     <h2 class="title-global">Welcome to Diamonds INN <br> </h2>
-                   <p>Diamonds Inn is a 3 storey Grade 2 listed Georgian Town House dating back to 1794.
+                   <p><b>Diamonds Inn</b> is a 3 storey Grade 2 listed Georgian Town House dating back to 1794.
 The guest house presents itself as an ideal base for you to explore the historical city of York,
 Monkgate is just 450 yards from York Minister and the city walls is within 2 minutes walking distance.
 
                     <br/> Almost, at the heart of York City, you can stroll to all of York's amazing and historical sites and attractions.  York National Art Gallery, National Railway Museum, York Minister, Bar Walls are only few mentioned that are minutes’ walk away and many, many more to explore as you venture through this beautiful Viking city.
-                    <br/> Diamonds Inn is the perfect destination if you want everything at your doorstep.  Enjoy this historical city with modern twist, with many chic, classic restaurants, bespoke cafes, trendy bars and traditional pubs. 
+                    <br/> <b>Diamonds Inn</b> is the perfect destination if you want everything at your doorstep.  Enjoy this historical city with modern twist, with many chic, classic restaurants, bespoke cafes, trendy bars and traditional pubs. 
                     <br/> Choose the best suited rooms for your stay from any of our 11 rooms of double en-suite, triple en-suite, or for a little extra space choose a family en-suite.
-Whichever you choose, your stay will be made complete with a comfy bed, free Wi-Fi, flat screen TV.  A mini fridge is provided for your convenience. 
+Whichever you choose, your stay will be made complete with a comfy bed, free Wi-Fi, Freeview TV and complimentary refreshments.  A mini fridge is provided for your convenience. 
 
-                    <br/> Our team at Diamonds Inn will be more than happy to guide you at any of the famous destinations in the historical City of York.  We will also strive to maintain a courteous and friendly atmosphere during your stay at our guest house.</p>
+                    <br/> Our team at <b>Diamonds Inn</b> will be more than happy to guide you at any of the famous destinations in the historical City of York.  We will also strive to maintain a courteous and friendly atmosphere during your stay at our guest house.</p>
                     </br>
                   <p> <b> Limited permitted parking available.</b>
                 </p>
@@ -175,7 +175,7 @@ YO31 7PB</p>
                          Triple room-Standard-Ensuite 
                         </a>
                         <p>
-                            This Triple Standard en-suite room has a Double Bed and Single Bed , Fat screen TV and tea and coffee making facilities, Hairdryer, a Chair, Fan, Radio, Towels and Toiletries etc. <br/>  provided in room.
+                            This Triple Standard en-suite room has a Double Bed and Single Bed , Freeview TV and Tea/coffee Refreshments, Hairdryer, a Chair, Fan, Radio, Towels and Toiletries etc. <br/> 
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
                             <a href="https://via.eviivo.com/DiamondsGuestHseYO23" class="btn-theme d-block w-100 text-center">Book rooms</a>
@@ -191,10 +191,10 @@ YO31 7PB</p>
                     </div>
                     <div class="blog-content">
                         <a href="https://via.eviivo.com/DiamondsGuestHseYO23" class="fs-4 link-title d-block my-3">
-                            Single room-Standard-Shared Bathroom
+                            Single room-Standard
                         </a>
                         <p>
-                            This Single Standard Room has a Single Bed, Hand wash basin, Flat screen TV, Tea and Coffee making facilities, Towels and Toiletries, Hair Dryer, Table Fan etc.
+                            This Single Standard Room has a Single Bed, Hand wash basin, Freeview TV, Tea/Coffee Refreshments, Towels and Toiletries, Hair Dryer,Fan etc.
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
                             <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center">Rooms Book</a>
@@ -210,10 +210,10 @@ YO31 7PB</p>
                     </div>
                     <div class="blog-content">
                         <a href="https://via.eviivo.com/DiamondsGuestHseYO23" class="fs-4 link-title d-block my-3">
-                            Double room-Budget-Shared Bathroom
+                            Double room-Budget
                         </a>
                         <p>
-                            This Double Basic Room has a Double Bed, Hand wash basin, Flat screen TV, Tea and Coffee making facilities, Towels and Toiletries, Hair Dryer, a Chair, Fan etc.<br/> Private Bathroom is outside the room.
+                            This Double Basic Room has a Double Bed, Hand wash basin, Freeview TV, Tea/Coffee Refreshments, Towels and Toiletries, Hair Dryer, a Chair, Fan etc.<br/>  Private Bathroom is outside the room.
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
                             <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center">Room Book</a>
@@ -232,7 +232,7 @@ YO31 7PB</p>
                             Double room-Standard-Ensuite
                         </a>
                         <p>
-                            This double Classic En-suite Room has a Double Bed, Flat screen TV, Tea and Coffee making facilities, Towels and Toiletries, Hair Dryer,a Chair, Fan etc.
+                            This double Classic En-suite Room has a Double Bed, Flat screen TV, Tea/Coffee Refreshments, Towels and Toiletries, Hair Dryer,a Chair, Fan etc.<br/>
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
                             <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center">Room Book</a>
@@ -250,10 +250,10 @@ YO31 7PB</p>
                    
                     <div class="blog-content">
                         <a href="" class="fs-4 link-title d-block my-3">
-                             Family room-Standard-Ensuite
+                             Family superior Room
                         </a>
                         <p>
-                            This Family Standard En-suite Room has Double bed and 3 Single beds , Fat screen TV and tea and coffee making facilities, Hairdryer, a Chair, fan, Towels and Toiletries etc. 
+                            This Family Standard En-suite Room has Double bed and 3 Single beds , Freeview TV and tea/coffee Refreshments, Hairdryer, a Chair, Fan, Towels and Toiletries etc.
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
                             <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center"> Book Room</a>
