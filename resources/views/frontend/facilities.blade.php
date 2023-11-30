@@ -34,12 +34,12 @@
                                 <td><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Freeview TV</td>
                                 <td><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>24 hour call service</td>
                                 <td><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Non-Smoking Room</td>
-                                <td><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Portable Heater</td>
+                                <td><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Iron</td>
                             </tr>
 
                             <tr>
                                 <td><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Towels</td>
-                                <td><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Iron</td>
+                                <td><iconify-icon class="" icon="material-symbols:arrow-forward-ios-rounded"></iconify-icon>Limited Parking</td>
                                 <td></td>
                                 <td></td>
                             </tr>

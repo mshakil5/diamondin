@@ -22,20 +22,21 @@
 
                     <div class="about-right ">
                         <h2 class="title-global">Survey</h2>
-                        <p>Thank you for staying at our Diamonds
+                        <p>Thank you for staying at Diamonds
                         <br/> Please help us to improve our service by participating in this short survey and you will automatically be entered in our price draw to win:
                     </p>
                     
                     <br>
 
-                    <p>Take Part in our survey to win:</p>
+                    <p>Take part in survey to win:</p>
 
+                     
                     <div class="text-left">
-                        <h2 class="" style="text-align: left"><?xml version="1.0" ?><svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M-838-2232H562v3600H-838z" fill="none"/><path d="M16 10v28l22-14z"/><path d="M0 0h48v48H0z" fill="none"/></svg><b>1st Prize - £300</b> </h2>
-                        <h2 class="" style="text-align: left"><?xml version="1.0" ?><svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M-838-2232H562v3600H-838z" fill="none"/><path d="M16 10v28l22-14z"/><path d="M0 0h48v48H0z" fill="none"/></svg><b>2nd Prize - £100 worth of Amazon Gift Voucher</b> </h2>
-                        <h2 class="" style="text-align: left"><?xml version="1.0" ?><svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M-838-2232H562v3600H-838z" fill="none"/><path d="M16 10v28l22-14z"/><path d="M0 0h48v48H0z" fill="none"/></svg><b>3rd Prize - Free Stay at any one of the Diamonds Branch</b></h2>
+                        <h3 class="" style="text-align: left"><?xml version="1.0" ?><svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M-838-2232H562v3600H-838z" fill="none"/><path d="M16 10v28l22-14z"/><path d="M0 0h48v48H0z" fill="none"/></svg><b style="color: #bf00db;">1st Prize - £300</b> </h3>
+                        <h3 class="" style="text-align: left"><?xml version="1.0" ?><svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M-838-2232H562v3600H-838z" fill="none"/><path d="M16 10v28l22-14z"/><path d="M0 0h48v48H0z" fill="none"/></svg><b style="color: #bf00db;">2nd Prize - £100 worth of Amazon Gift Voucher</b> </h3>
+                        <h3 class="" style="text-align: left"><?xml version="1.0" ?><svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M-838-2232H562v3600H-838z" fill="none"/><path d="M16 10v28l22-14z"/><path d="M0 0h48v48H0z" fill="none"/></svg><b style="color: #bf00db;">3rd Prize - Free Stay at any one of the Diamonds Branch</b></h3>
                     </div>
-                    <small>(not be used in conjunction with any other offer.  T&C apply)</small>
+                    <p>(not be used in conjunction with any other offer.  T&C apply)</p>
 
                     <table class="table table-hover">
                         <thead>
