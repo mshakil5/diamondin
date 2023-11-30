@@ -1,10 +1,23 @@
 @extends('layouts.master')
 
 @section('content')
-<section class="about py-5" id="about">
+
+<style>
+    p{
+        color: white;
+    }
+</style>
+<section class="spacer bg-dark" id="about">
     <div class="container">
         <div class="row">
-            <h2 class="title-global text-center">Welcome to Diamonds INN <br> </h2>
+            <div class="col-md-8 mx-auto ">
+                <p class="text-light d-block mt-3  text-center">
+                    <img src="{{ asset('assets/frontend/images/diamond.png')}}" width="300px">
+                </p>
+            </div>
+            <div class="col-md-8 mx-auto ">
+                <h2 class="title-global text-center"  style="color: #bf00db;">Welcome to Diamonds INN <br> </h2>
+            </div>
             <div class="col-md-9 mx-auto text-justify">
                 <div class="about-right ">
                    <p><b>Diamonds Inn</b> is a 3 storey Grade 2 listed Georgian Town House dating back to 1794.
@@ -38,53 +51,12 @@ YO31 7PB</p>
                 </div>
             </div>
         </div>
-       <!-- <div class="row mt-5 mb-3">
-            <div class="col-md-4">
-                <div class="blog">
-                    <div class="photo mb-3">
-                        <a href="">
-                            <img class="img-fluid rounded" src="{{ asset('assets/frontend/images/posts/room7.jpg')}}" alt="">
-                        </a>
-                    </div>
-                    <div class="blog-content">
-                        <div class="d-flex mt-3 justify-content-between align-items-center">
-                            <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center">Book rooms</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="blog">
-                    <div class="photo mb-3">
-                        <a href="">
-                            <img class="img-fluid rounded" src="{{ asset('assets/frontend/images/posts/room8.jpg')}}" alt="">
-                        </a>
-                    </div>
-                    <div class="blog-content">
-                        <div class="d-flex mt-3 justify-content-between align-items-center">
-                            <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center">Book rooms</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="blog">
-                    <div class="photo mb-3">
-                        <a href="">
-                            <img class="img-fluid rounded" src="{{ asset('assets/frontend/images/posts/room1.jpg')}}" alt="">
-                        </a>
-                    </div>
-                    <div class="blog-content">
-                        <div class="d-flex mt-3 justify-content-between align-items-center">
-                            <a href="https://via.eviivo.com/DiamondsYO31" class="btn-theme d-block w-100 text-center">Book rooms</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
--->
-        </div>
     </div>
 </section>
+
+
+
+
 <!--
 <section class="about py-5">
     <div class="container">
